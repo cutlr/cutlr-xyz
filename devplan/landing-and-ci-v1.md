@@ -148,6 +148,21 @@ does, not by product name**. Canonical domain → **www.cutlr.xyz**, apex 301 �
       data if you leave · why so cheap.
 - [x] **Closing CTA** band + **honest** building-in-public line (real GitHub link, no fake numbers/testimonials).
 
+## Revision v1.4 — rsvp → future Events product; Fixing Flatware umbrella (2026-07-03)
+
+Strategy: umbrella brand **Fixing Flatware** (flat*ware* = cutlery, matches CUTLR).
+CUTLR becomes product #1; a dedicated Events product (Meetup/Eventbrite) will own RSVP.
+
+- [x] **Remove `rsvp` from CUTLR** (overlaps the future Events product). Keep `polls`
+      (scheduling ≠ events). Suite now 5 tools; renumber pins → [05]. Remove hero
+      "🎟️ Host events" chip, footer `rsvp.cutlr.xyz` link, and the events line in the
+      bloat-tax table (total ≈ $44 → ≈ $36/mo).
+- [x] **Footer reference** to the umbrella: "CUTLR is the first tool of Fixing Flatware".
+      Link deferred until `fixingflatware.(com/xyz)` is bought + live.
+- [ ] **Umbrella site** `fixingflatware` — separate deliverable (own devplan).
+- [ ] **GitHub org rename** `cutlr` → `fixingflatware`: **UI-only** (no API); user does it,
+      then update git remote + the `www` DNS CNAME target → `fixingflatware.github.io`.
+
 ### Out of scope (v1)
 Actual per-tool apps (notes/tasks/…), auth/SSO ("one account"), analytics, favicon
 artwork beyond a simple inline SVG. Flag if you want any pulled in.
